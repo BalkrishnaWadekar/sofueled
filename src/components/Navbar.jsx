@@ -6,7 +6,7 @@ export default function Navbar() {
             <div className="container-fluid justify-content-between">
                 <div className="d-flex">
                     <a className="navbar-brand me-2 mb-1 d-flex align-items-center" href="#">
-                        <h3 className='mt-2 px-4'>Sofueled</h3>
+                        <h3 className='mt-2 px-4'>Amazo</h3>
                     </a>
                     <form className="input-group w-auto my-auto d-none d-sm-flex">
                         <div className="dropdown">

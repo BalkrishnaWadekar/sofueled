@@ -29,13 +29,13 @@ const Footer = () => {
                         </p>
                     </div>
                     <div className='col-sm-3 col-md-3 col-12'>
-                        <h5>SOFUELED</h5>
+                        <h5>AMAZO</h5>
                         <p>
                             We envisaged an enterprise-grade system to work with you on accountable partnerships to deliver accelerated results. Since our inception, we have delivered solutions through industry-defining experience, bespoke strategies, and close-knit service industry integrations
                         </p>
                     </div>
                     <div className='col-sm-3 col-md-3 col-12 d-flex justify-content-center'>
-                        <h5>PRACTICAL TASK BY SOFUELED</h5>
+                        <h5>BRAND SHOP AMAZO</h5>
                     </div>
                 </div>
             </div>
